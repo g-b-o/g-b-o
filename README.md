@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hey! ✌️
+## 🦾 my name is g-b-o and I am an aspiring ai dev :man_technologist:
+          (hopefully looking for jobs soon)
 
-<!--
-**g-b-o/g-b-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✍️ Learning:            💡 Working on:
+#   📓 Calculus;              :man_artist: gbo.ai
+#   📚 Linear algebra;        ⌚️ too early, only learning
+#   📊 Data Science
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#                  🚲 You can find me at: 
+#                       🕊 twitter: (https://twitter.com/artificintelli)
+#                       💻 (https://gbo.ai) (soon)
