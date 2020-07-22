@@ -15,6 +15,7 @@
 ###  :man_artist: gbo.ai
 ###  ⌚️ too early, only learning
 
+---
 
 ## 🚲 You can find me at: 
 ###  🕊 twitter: (https://twitter.com/artificintelli)
