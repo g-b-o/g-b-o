@@ -1,5 +1,5 @@
 # Hey! ✌️
-## 🦾 my name is g-b-o and I am an aspiring ai dev :man_technologist:
+## 🦾 my name is gabol and I am an aspiring ai dev :man_technologist:
 ####          (hopefully looking for jobs soon)
 
 ---
